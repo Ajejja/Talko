@@ -86,10 +86,9 @@ Tailwind CSSのユーティリティを活かして、リアルタイムにテ�
 <img width="1322" height="458" alt="Image" src="https://github.com/user-attachments/assets/e7111ce9-0b0f-40a6-acad-16a13df06213" />
 
 
-<h1>🎥 リアルタイムチャット デモ動画</h1>
-<p>
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/yEExazk5I-g" 
-          title="Talkoo Chat Demo" frameborder="0" allowfullscreen></iframe>
-</p>
+# 🎥 リアルタイムチャット デモ動画
+
+
+[![Watch the demo](https://img.youtube.com/vi/yEExazk5I-g/0.jpg)](https://www.youtube.com/watch?v=yEExazk5I-g)
 
 
