@@ -44,12 +44,12 @@ CLOUDINARY_API_SECRET=your_api_secret
 NODE_ENV=development
 ```
 ### 4 アプリを起動
-## バックエンド:
+#### バックエンド:
 ```bash
 cd backend
 npm run dev
 ```
-## フロントエンド:
+#### フロントエンド:
 ```bash
 cd frontend
 npm run dev
