@@ -1,4 +1,4 @@
-# Talkoo - リアルタイムグループ＆プライベートチャットアプリ 💬
+# Talko - リアルタイムグループ＆プライベートチャットアプリ 💬
 
 Talkoは、1対1のメッセージングとグループチャットの両方をサポートする、MERNスタックで構築されたリアルタイムチャットアプリケーションです。リアルタイム通信にはSocket.ioを使用し、JWTによる認証、ユーザーのオンライン状態表示、ファイル共有機能を備えています。UIはTailwindCSSとDaisy UIで構築され、レスポンシブ対応済みです。
 
@@ -72,5 +72,9 @@ npm run dev
 Tailwind CSSのユーティリティを活かして、リアルタイムにテーマ変更が反映されます。
 
 <img width="1160" height="704" alt="Image" src="https://github.com/user-attachments/assets/b3817cb1-1bb6-44b4-acc8-8eca645363e7" />
+
+### ⚙️ 設定画面（プロフィール編集）
+この画面では、ユーザーが**自分のプロフィール情報（名前・プロフィール画像）を変更**できます。  
+また、アプリの外観（テーマカラー）も選択でき、リアルタイムで背景色やアクセントカラーが反映されるため、自分好みにカスタマイズが可能です。
 
 <img width="1287" height="697" alt="Image" src="https://github.com/user-attachments/assets/23c5b44b-0edc-48fb-8380-7effe0a389d1" />
