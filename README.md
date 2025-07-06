@@ -75,6 +75,8 @@ Tailwind CSSのユーティリティを活かして、リアルタイムにテ�
 
 ### ⚙️ 設定画面（プロフィール編集）
 この画面では、ユーザーが**自分のプロフィール情報（名前・プロフィール画像）を変更**できます。  
-また、アプリの外観（テーマカラー）も選択でき、リアルタイムで背景色やアクセントカラーが反映されるため、自分好みにカスタマイズが可能です。
 
 <img width="1287" height="697" alt="Image" src="https://github.com/user-attachments/assets/23c5b44b-0edc-48fb-8380-7effe0a389d1" />
+
+
+<img width="1143" height="329" alt="Image" src="https://github.com/user-attachments/assets/9d9b965a-6d19-47ee-85b2-b2425df4ad56" />
