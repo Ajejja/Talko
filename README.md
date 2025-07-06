@@ -62,6 +62,9 @@ npm run dev
 
 <img width="1406" height="675" alt="Image" src="https://github.com/user-attachments/assets/fe4274ff-182a-4e3f-bef1-be1edac55ed3" />
 
+### 📝 サインアップ画面
+ユーザー情報登録フォーム、バリデーション付き。
 
+<img width="1261" height="724" alt="Image" src="https://github.com/user-attachments/assets/a9d0d4ea-4343-49ca-97e6-a6fafa6ed160" />
 
 <img width="1287" height="697" alt="Image" src="https://github.com/user-attachments/assets/23c5b44b-0edc-48fb-8380-7effe0a389d1" />
