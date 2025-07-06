@@ -88,5 +88,5 @@ Tailwind CSSのユーティリティを活かして、リアルタイムにテ�
 
 # 🎥 リアルタイムチャット デモ動画
 
-[![Watch the demo](https://www.youtube.com/watch?v=yEExazk5I-g)
+[![Watch the demo](https://img.youtube.com/vi/yEExazk5I-g/0.jpg)](https://www.youtube.com/watch?v=yEExazk5I-g)
 
