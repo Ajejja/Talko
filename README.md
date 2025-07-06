@@ -21,4 +21,37 @@ Talkoは、1対1のメッセージングとグループチャットの両方を�
 - 🟢 **オンライン／オフライン表示**
 - 🌓 **ダークモード対応UI**
 
+---
 
+## 🚀 セットアップ手順（続き）
+
+### 2 パッケージをインストール
+```bash
+npm install
+cd client && npm install
+
+```
+### 3 .env ファイルをルートディレクトリに作成
+```bash
+MONGODB_URI=your_mongodb_atlas_connection_string
+PORT=5001
+JWT_SECRET=your_jwt_secret
+
+CLOUDINARY_CLOUD_NAME=your_cloudinary_name
+CLOUDINARY_API_KEY=your_api_key
+CLOUDINARY_API_SECRET=your_api_secret
+
+NODE_ENV=development
+```
+### 4 アプリを起動
+##バックエンド:
+```bash
+cd backend
+npm run dev
+```
+##フロントエンド:
+```bash
+cd frontend
+npm run dev
+```
+##📸 スクリーンショット（例）:
