@@ -67,4 +67,10 @@ npm run dev
 
 <img width="1261" height="724" alt="Image" src="https://github.com/user-attachments/assets/a9d0d4ea-4343-49ca-97e6-a6fafa6ed160" />
 
+### ⚙️ 設定画面（プロフィール編集）
+ユーザーはこの画面で名前やプロフィール画像の変更に加えて、**アプリ全体のテーマカラー（背景やアクセント）を自由にカスタマイズ**できます。  
+Tailwind CSSのユーティリティを活かして、リアルタイムにテーマ変更が反映されます。
+
+<img width="1160" height="704" alt="Image" src="https://github.com/user-attachments/assets/b3817cb1-1bb6-44b4-acc8-8eca645363e7" />
+
 <img width="1287" height="697" alt="Image" src="https://github.com/user-attachments/assets/23c5b44b-0edc-48fb-8380-7effe0a389d1" />
