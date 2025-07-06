@@ -78,5 +78,9 @@ Tailwind CSSのユーティリティを活かして、リアルタイムにテ�
 
 <img width="1287" height="697" alt="Image" src="https://github.com/user-attachments/assets/23c5b44b-0edc-48fb-8380-7effe0a389d1" />
 
+🧑‍🤝‍🧑 グループチャット画面
+選択ユーザーと作成したチャンネル内でのグループ会話。
 
 <img width="1143" height="329" alt="Image" src="https://github.com/user-attachments/assets/9d9b965a-6d19-47ee-85b2-b2425df4ad56" />
+<img width="1393" height="300" alt="Image" src="https://github.com/user-attachments/assets/bb69e94b-c075-4125-8cce-7d547a208976" />
+<img width="1322" height="458" alt="Image" src="https://github.com/user-attachments/assets/e7111ce9-0b0f-40a6-acad-16a13df06213" />
