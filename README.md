@@ -60,4 +60,8 @@ npm run dev
 
 ユーザーが認証するシンプルでクリーンなUI。
 
+<img width="1406" height="675" alt="Image" src="https://github.com/user-attachments/assets/fe4274ff-182a-4e3f-bef1-be1edac55ed3" />
+
+
+
 <img width="1287" height="697" alt="Image" src="https://github.com/user-attachments/assets/23c5b44b-0edc-48fb-8380-7effe0a389d1" />
